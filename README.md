@@ -2,14 +2,15 @@ Detect_Toxic_Cmt_VN
 This project provides a model that detects toxic comments on social media platforms, specifically designed for the Vietnamese language.
 
 📌 Overview
-This model is based on the work of Nhattan040102 (2023), which uses PhoBERT-CNN to detect hate speech and offensive comments in Vietnamese. I have implemented this model as a server API, which can detect toxic comments posted in real-time on social media.
+This model is based on the work of Nhattan040102 (2023), which uses PhoBERT-CNN to detect hate speech and offensive comments in Vietnamese. I have implemented this model as a server API, which can detect toxic comments posted in real-time on social media.<br>
+This is his github repository model : "https://github.com/nhattan040102/Vietnamese-Hate-and-Offensive-Detection-using-PhoBERT-CNN-and-Social-Media-Streaming-Data"
 
 The server is hosted using Ngrok for a static domain and is accessible for testing.
 
 🔧 Requirements
 Before using this project, please ensure the following:
 
-Python 3.x
+Python 3.10
 
 Required Python libraries listed in requirements.txt
 
