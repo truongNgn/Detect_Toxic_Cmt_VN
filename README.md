@@ -26,12 +26,10 @@ git clone https://github.com/truongNgn/Detect_Toxic_Cmt_VN.git
 cd Detect_Toxic_Cmt_VN
 Install Dependencies Install all required libraries using requirements.txt:
 
-bash
-Copy
-Edit
+```bash
 pip install -r requirements.txt
 Install Ngrok
-
+```
 If you're using Windows, you can install Ngrok via Chocolatey with the following command:
 
 bash
