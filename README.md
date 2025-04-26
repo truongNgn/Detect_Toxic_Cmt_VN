@@ -78,5 +78,5 @@ Ensure your Ngrok tunnel remains active to keep the server running.
 
 This model specifically handles Vietnamese-language comments and is built for detecting hate speech and offensive content.
 
-📝 License
+📝 License <br>
 This project is licensed under the MIT License - see the LICENSE file for details.
